@@ -1,0 +1,1 @@
+*/5 * * * * /etc/compteur.sh >> /tmp/date.txt
